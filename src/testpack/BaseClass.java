@@ -7,4 +7,7 @@ public class BaseClass {
 		System.out.println("main method");
 	}
 
+	void santhoshmehod() {
+		System.out.println("this is santhosh code");
+	}
 }
