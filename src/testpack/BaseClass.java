@@ -10,4 +10,7 @@ public class BaseClass {
 	void santhoshmehod() {
 		System.out.println("this is santhosh code");
 	}
+	void gayatriMethod() {
+	System.out.println("this is gayatri");
+	}
 }
