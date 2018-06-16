@@ -15,6 +15,10 @@ public class BaseClass {
 		System.out.println("this is gayatri");
 	}
 
+	void user() {
+		System.out.println("this is user2");
+	}
+
 	void rahul() {
 		System.out.println("this is rahul");
 	}
